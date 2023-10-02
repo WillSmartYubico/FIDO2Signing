@@ -6,3 +6,6 @@ Examples of code signing with FIDO2 tokens
 This change wasn't signed.
 
 Signed again!
+
+Signing in WSL?
+
